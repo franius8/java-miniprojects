@@ -1,3 +1,5 @@
+package bullscows;
+
 import java.util.Scanner;
 import java.util.Random;
 
